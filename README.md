@@ -18,18 +18,15 @@ Scraping Netflix's share price history from a web page, cleaning it, and studyin
 
 ## Charts
 
-**1. Closing Price and 50-Day Average**
-The price moved up or down over the period.
+**1. Closing Price and 50-Day Average** 
 
 ![Netflix Closing Price](images/netflix_closing_price.png)
 
-**2. Trading Volume**
-The days with the highest volume.
+**2. Trading Volume** 
 
 ![Netflix Trading Volume](images/netflix_trading_volume.png)
 
-**3. Distribution of Daily Returns**
-Most days the price changed by only a small percentage.
+**3. Distribution of Daily Returns** 
 
 ![Netflix Daily Returns](images/netflix_daily_returns.png)
 
@@ -39,11 +36,11 @@ Most days the price changed by only a small percentage.
 
 | Measure | Value |
 |---|---|
-| Period | [start date] to [end date] |
-| Highest close | [value] on [date] |
-| Lowest close | [value] on [date] |
-| Average daily return | [value] % |
-| Volatility (std. dev. of daily return) | [value] % |
+| Period | 2015-09-01 to 2021-06-01 |
+| Highest close | 540.73 on 2020-12-01 |
+| Lowest close | 90.03 on 2016-04-01 |
+| Average daily return | 2.883 % |
+| Volatility (std. dev. of daily return) | 10.234 % |
 
 ## Limitations
 
