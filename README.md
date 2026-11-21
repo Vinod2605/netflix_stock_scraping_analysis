@@ -19,17 +19,17 @@ Scraping Netflix's share price history from a web page, cleaning it, and studyin
 ## Charts
 
 **1. Closing Price and 50-Day Average**
-[One sentence on the trend you see, e.g. the price moved up or down over the period.]
+The price moved up or down over the period.
 
 ![Netflix Closing Price](images/netflix_closing_price.png)
 
 **2. Trading Volume**
-[One sentence, e.g. the days with the highest volume.]
+The days with the highest volume.
 
 ![Netflix Trading Volume](images/netflix_trading_volume.png)
 
 **3. Distribution of Daily Returns**
-[One sentence, e.g. most days the price changed by only a small percentage.]
+Most days the price changed by only a small percentage.
 
 ![Netflix Daily Returns](images/netflix_daily_returns.png)
 
